@@ -1,0 +1,33 @@
+/* all custom css */
+div {
+  font-family: 'Playfair Display', serif;
+}
+
+.mobile {
+  height:100vh;
+}
+
+/* Mobile Nav Section */
+.nav {
+  background-color: #rgb(224, 224, 219);
+  width:100%;
+  height:6vh;
+}
+
+.title {
+  position: absolute;
+
+}
+
+.burger-menu {
+  height: 100%;
+  width:20%;
+  display: inline-block;
+}
+
+.fa-bars {
+  font-size: 30px;
+  position: absolute;
+  top: 8px;
+  left: 325px;
+}
